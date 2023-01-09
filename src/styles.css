@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-weight: normal;
+    font-family: 'Roboto Mono', monospace;
+}
+
+html {
+    background-color: #FFFEB7;
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+
+section {
+    min-height: 85vh;
+    padding: 80px 7%;
+    overflow: hidden;
+}
+
+

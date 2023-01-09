@@ -1,0 +1,30 @@
+/* Comienzo de la sección home */
+
+.home {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: url("../../../assets/images/Logo.png") no-repeat;
+    background-size: 400px;
+    background-position: right;
+    margin-bottom: 30px;
+}
+
+.home .content {
+    padding-left: 8rem;
+    width: 75rem;
+}
+
+.home .content h3 {
+    font-size: 4.5rem;
+    color: #000;
+}
+
+.home .content p {
+    font-size: 2rem;
+    color: #000;
+    padding: 1rem 0;
+}
+
+
+/* Fin de la sección home */
